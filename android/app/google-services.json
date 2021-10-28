@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598033495727",
+    "firebase_url": "https://student-attendance-cac85-default-rtdb.firebaseio.com",
+    "project_id": "student-attendance-cac85",
+    "storage_bucket": "student-attendance-cac85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598033495727:android:d9d5a9234c4e471873865a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_desk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598033495727-5udkopq51ufhe76a49dvhp8it7iddsqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0isG9Hl-DjVvC30ODpN0cbQJw7W0DVSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598033495727-5udkopq51ufhe76a49dvhp8it7iddsqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
